@@ -28,5 +28,7 @@ Now that I had the custom forecast data and a way to create currency indexes, I 
 (ignore the green line here, thats from the correlation scanner)
 ![USD](https://user-images.githubusercontent.com/62268115/121750417-f60db080-cad1-11eb-9a34-fd8245500a1b.png)
 
+That chart is showing 8hr candles. In reality these potential forecast trades should be looked at on no larger than a 1hr chart.  On those lower timeframe charts my custom formula showed potential but only on EUR, GBP and USD, the 3 currencies with the most economic data. 
+
 
 
